@@ -1,3 +1,3 @@
 # pranav-demo
 This is tutorial
-Author- panya
+Author- panya (web dev)
